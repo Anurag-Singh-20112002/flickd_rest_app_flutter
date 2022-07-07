@@ -1,3 +1,5 @@
+// ignore_for_file: duplicate_import, unused_field
+
 import 'package:flutter/material.dart';
 
 //Packages
